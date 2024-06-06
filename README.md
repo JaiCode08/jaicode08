@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Factful, up-and-coming startup focused on fact correction and grammar suggestions](https://factful.io/)
 
-- 🌱 I’m currently learning **full-stack website development**
+- 🌱 I’m currently learning **full-stack website development**.
 
 - 👯 Currently collaborating on [Reteena, a verified 501(c)(3) aiming to build healthcare software](https://reteena.org/)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jaicode2020@gmail.com**
 
-- ⚡ Interests **F1, Astrophotography**
+- ⚡ Interests: **F1, Astrophotography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
