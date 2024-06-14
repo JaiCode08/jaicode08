@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jainish Patel</h1>
-<h3 align="center">Aspiring Software Engineer and Data Scientist</h3>
+<h3 align="center">Aspiring Software and ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaicode08&label=Profile%20views&color=0e75b6&style=flat" alt="jaicode08" /> </p>
 
