@@ -5,9 +5,11 @@
 
 - 🔭 I’m currently working at [Factful, up-and-coming startup focused on fact correction and grammar suggestions](https://factful.io/)
 
-- 🌱 I’m currently learning **full-stack website development**.
+- 🔍 Currently researching at [OpenNLP Research Lab](https://opennlplabs.org/)
 
 - 👯 Currently collaborating on [Reteena, a verified 501(c)(3) aiming to build healthcare software](https://reteena.org/)
+
+- 🌱 I’m currently learning **full-stack website development**.
 
 - 🤖 Programming Lead for FRC 4065 team [https://www.frc4065.com/](https://www.frc4065.com/)
 
