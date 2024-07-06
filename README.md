@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Factful, up-and-coming startup focused on fact correction and grammar suggestions](https://factful.io/)
 
-- 🔍 Currently researching at [OpenNLP Research Lab](https://opennlplabs.org/)
+- 🔍 Currently researching at [OpenNLP Research Lab](https://opennlplabs.org/) on image trancreation
 
 - 👯 Currently collaborating on [Reteena, a verified 501(c)(3) aiming to build healthcare software](https://reteena.org/)
 
