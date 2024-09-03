@@ -26,4 +26,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,azure,gcp,cs,cpp,py,java,ts,react,sqlite,pytorch,tensorflow,sklearn,opencv,bash,docker,unity,flask,fastapi,eclipse,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,azure,gcp,c,cs,cpp,py,java,ts,react,sqlite,pytorch,tensorflow,sklearn,opencv,bash,docker,unity,flask,fastapi,eclipse,git)](https://skillicons.dev)
