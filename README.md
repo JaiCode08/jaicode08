@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaicode08&label=Profile%20views&color=0e75b6&style=flat" alt="jaicode08" /> </p>
 
-- 🔭 I’m currently working at [Factful, up-and-coming startup focused on fact correction and grammar suggestions](https://factful.io/)
+- 🔭 I’m currently working @ [Factful, up-and-coming startup focused on fact correction and grammar suggestions](https://factful.io/)
 
-- 🔍 ML Director at [OpenNLP Research Lab](https://opennlplabs.org/) and researching on image trancreation
+- 🔍 ML Director @ [OpenNLP Research Lab](https://opennlplabs.org/) and researching on image trancreation
 
 - 👯 Currently collaborating on [Reteena, a verified 501(c)(3) aiming to build healthcare software](https://reteena.org/)
 
 - 🌱 I’m currently learning **full-stack website development**.
 
-- 🤖 Programming Lead for FRC 4065 team [https://www.frc4065.com/](https://www.frc4065.com/)
+- 🤖 Programming Lead @ FRC 4065 team [https://www.frc4065.com/](https://www.frc4065.com/)
 
 - 💬 Ask me about **AI/ML, robotics, etc.**
 
