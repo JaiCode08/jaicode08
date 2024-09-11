@@ -7,7 +7,7 @@
 
 - 🔍 ML Director @ [OpenNLP Research Lab](https://opennlplabs.org/) and researching on image trancreation
 
-- 👯 Currently collaborating on [Reteena, a verified 501(c)(3) aiming to build healthcare software](https://reteena.org/)
+- 👯 Currently collaborating on [Reteena, a verified 501(c)(3) building AI models for Alzhemier's patients](https://reteena.org/)
 
 - 🌱 I’m currently learning **full-stack website development**.
 
