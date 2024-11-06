@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaicode08&label=Profile%20views&color=0e75b6&style=flat" alt="jaicode08" /> </p>
 
-- 🔭 Building @ [Factful, up-and-coming startup focused on fact correction and grammar suggestions](https://factful.io/)
+- 🔭 Building @ [Factful, world's first IWE that provides fact, grammar, and spelling suggestions.](https://factful.io/)
 
 - 🔍 ML Director @ [OpenNLP Research Lab](https://opennlplabs.org/) and researching on image trancreation 
 
