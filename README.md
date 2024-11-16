@@ -9,9 +9,9 @@
 
 - 👯 Currently collaborating on [Reteena](https://reteena.org/), a verified 501(c)(3) building AI models for Alzhemier's patients
 
-- 🌱 I’m currently learning **full-stack website development**.
-
 - 🤖 Programming Lead @ FRC 4065 team [https://www.frc4065.com/](https://www.frc4065.com/)
+  
+- 🌱 I’m currently learning **full-stack website development**.
 
 - 💬 Ask me about **AI/ML, robotics, etc.**
 
