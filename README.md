@@ -1,29 +1,26 @@
-<h1 align="center">Hi 👋, I'm Jainish</h1>
-<h3 align="center">Aspiring ML Engineer</h3>
+# Jainish Patel
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaicode08&label=Profile%20views&color=0e75b6&style=flat" alt="jaicode08" /> </p>
+ML researcher and builder. Incoming CS @ Stanford.
 
-- 🔭 Building general optimization pipelines for engineering
+**Publications**
+- [HILITE: Human-in-the-loop Interactive Tool for Image Editing](https://openreview.net/profile?id=~Jainish_H._Patel2) — IEEE BigData 2024 · **Runner-up Best Paper**
+- [Low Field MRI Deep Learning Framework for Non-Hospitalizing Early Detection and Characterization of Alzheimer's Disease Pathology](https://dblp.org/pid/397/8676.html) — IEEE BigData 2024
+- [NeuroLoom: Modeling Cortical Microcircuits with Spiking Neural Networks](https://openreview.net/forum?id=Qn0uIvFToV) — ICLR 2026 Workshop FM4Science
 
-- 🔍 ML Director @ [OpenNLP Research Lab](https://opennlplabs.org/) and researching on image trancreation 
+**Research**
+- ML Research Intern @ Stanford SAIL — image transcreation with diffusion models
+- Imminent Translated Grant Recipient (CMU NeuLab × Stanford SALT Lab)
+- Fellow @ Cerebras Systems
+- Active research in reinforcement learning
 
-- 👯 Currently collaborating on [Reteena](https://reteena.org/), a verified 501(c)(3) building AI models for Alzhemier's patients
+**Building**
+- Director of ML @ [OpenNLP Research Lab](https://opennlplabs.org/)
+- Co-Founder @ [Reteena](https://reteena.org/) — AI for Alzheimer's patients (501c3)
 
-- 🤖 Programming Lead @ FRC 4065 team [https://www.frc4065.com/](https://www.frc4065.com/)
-  
-- 🌱 I’m currently learning **full-stack website development**.
+**Engineering**
+- Programming Lead @ [FRC Team 4065](https://www.frc4065.com/) — scaled team to 16 students, led to FRC World Championship 2025
+- 3rd Place, Robotics — ISEF 2025 (Iterative Design Optimization)
+- Lead Instructor @ LuminAI Bootcamps — 200+ students across 5 countries
 
-- 💬 Ask me about **AI/ML, robotics, etc.**
-
-- 📫 How to reach me **jaicode2020@gmail.com**
-
-- ⚡ Interests: **F1, Astrophotography**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jainish-patel-h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jainish-patel-3b0765274/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,azure,gcp,c,cs,cpp,py,java,ts,react,sqlite,pytorch,tensorflow,sklearn,opencv,bash,docker,unity,flask,fastapi,mongodb,eclipse,git)](https://skillicons.dev)
+**Links**
+[LinkedIn](https://www.linkedin.com/in/jainish-patel-h/) · [OpenReview](https://openreview.net/profile?id=~Jainish_H._Patel2) · jainishp@stanford.edu
