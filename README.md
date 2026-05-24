@@ -18,7 +18,7 @@ ML researcher and builder. Incoming CS @ Stanford.
 - Co-Founder @ [Reteena](https://reteena.org/) — AI for Alzheimer's patients (501c3)
 
 **Engineering**
-- Programming Lead @ [FRC Team 4065](https://www.frc4065.com/) — scaled team to 16 students, led to FRC World Championship 2025
+- Programming Lead @ [FRC Team 4065](https://www.frc4065.com/) — scaled team to 16 students, led to FRC World Championship Winner 2026
 - 3rd Place, Robotics — ISEF 2025 (Iterative Design Optimization)
 - Lead Instructor @ LuminAI Bootcamps — 200+ students across 5 countries
 
